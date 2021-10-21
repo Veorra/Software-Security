@@ -2,6 +2,7 @@
 **Patrick Valencia's Portfolio**
 
 1) Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+
 Artemis Financial is a modern financial consulting company that develops individualized financial plans for savings, retirement, investments, and insurance for their patrons. Their main software requirement was something that would help modernize their operations along with the most current and effective software security. 
     
 2)What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
