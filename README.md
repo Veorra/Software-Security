@@ -7,6 +7,8 @@ Artemis Financial is a modern financial consulting company that develops individ
     
 2)What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
+
+
 3) What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
 4) How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
