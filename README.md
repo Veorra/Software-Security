@@ -26,3 +26,7 @@ I made sure that the code was functional by making sure that it executed without
 The coding resources that I found incredibly helpful when making these assignments was both Khan academy and stack overflow. They were great resources for me to look over as it provided me insight on what I needed to accomplish. Additionally with the provided insight it gave me an opportunity to look at related topics and get an idea of what else I might confront.
 
 7) Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+
+The main thing that I would want to showcase is my ability to locate vulnerable dependencies and update them to make them secure. With this potential employers would be able to see that I can locate the vulnerabilities as well as correct them to make them secure in order to increase security. This would be very beneficial for employers to see as they would view my ability to find and fix vulnerabilities incredibly valuable as it benefits both the company and the users of said products.
+
+
