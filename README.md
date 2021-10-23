@@ -11,9 +11,11 @@ What I did particularly well was to identify what was vulnerable and how to fix 
 
 3) What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
-
+The main process of working through the vulnerability assessment that I found challenging was deciphering what each vulnerability meant and the reason as to why it was found. Once this information is located, the next challenge is fixing said vulnerability so that it would not be a problem again.
 
 4) How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+
+
 
 5) How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
