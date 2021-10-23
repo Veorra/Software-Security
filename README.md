@@ -19,6 +19,8 @@ I approached the need to increase layers of security in a very straightforward m
 
 5) How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
+I made sure that the code was functional by making sure that it executed without errors. Whenever I ran the refracted code, if there were errors it would pop up and it couldn't even execute. As for if any new vulnerabilities were found, I made sure to run a vulnerability test before refactoring and then after and comparing the results. With this I would be able to compare if there were indeed new vulnerabilities introduced or not.
+
 6) What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
 7) Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
