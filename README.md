@@ -15,7 +15,7 @@ The main process of working through the vulnerability assessment that I found ch
 
 4) How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 
-
+I approached the need to increase layers of security in a very straightforward manner. I added a bit cypher to the project as an added layer of encryption. With this the user would be more protected with the information they provided. As for a technique I would use, I would first make sure that all the dependencies are up to date. Once then, I would run the maven dependencies to see the list of up to date vulnerable dependencies and what I would need to do to fix them. 
 
 5) How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
